@@ -7,12 +7,12 @@ After working as an SEO specialist and WordPress website designer, I decided to 
 ---
 
 ### 🚀 Tech Stack
-- HTML5  
-- CSS3  
+- Next.js  
+- React  
 - Tailwind CSS  
 - JavaScript (ES6+)  
-- React  
-- Next.js  
+- HTML5  
+- CSS3  
 
 ---
 
