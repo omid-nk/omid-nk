@@ -159,12 +159,6 @@ Because great products should not only look good — they should perform excepti
   <img src="https://img.shields.io/badge/Telegram-1E1E1E?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
 
-<a href="https://instagram.com/YOUR_ID">
-  <img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-
-<img src="https://img.shields.io/badge/Phone-1A1A1A?style=for-the-badge&logo=googlemessages&logoColor=34A853&label=%2B98%20912%20345%206789" />
-
 </div>
 
 ---
