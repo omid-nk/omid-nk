@@ -28,8 +28,6 @@ My background in **SEO and WordPress** also gives me a practical understanding o
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### Frontend
 
 <div>
