@@ -2,148 +2,110 @@
 
 # 👋 Hi, I'm Omid Daliri
 
-### Frontend Developer • React & Next.js Enthusiast • SEO-Aware Builder
+### Frontend Developer | React · Next.js · TypeScript
 
-I build modern, scalable, and high-performance web applications with a strong focus on clean UI, responsive design, user experience, and performance optimization.
+I’m a frontend developer with **2+ years of programming experience**, focused on building modern, responsive, and maintainable web applications.
 
-With a background in SEO and WordPress development, I combine frontend engineering with a deep understanding of search visibility, website structure, and digital product growth.
+I mainly work with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, with a strong interest in performance, clean UI, and scalable frontend architecture.
+
+My background in **SEO and WordPress** also gives me a practical understanding of technical SEO, website performance, and building search-friendly web experiences.
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Frontend Developer focused on modern React ecosystem technologies  
-- ⚡ Passionate about scalable UI architecture and performance optimization  
-- 🧠 Strong understanding of SEO, UX principles, and technical optimization  
-- 🤖 AI-powered workflow using ChatGPT and Codex to improve productivity and development speed  
-- 🎨 Design-aware developer with experience in UI and creative tools  
-- 📚 Continuous learner always exploring modern technologies and workflows  
+* 💻 Frontend Developer focused on React and Next.js
+* ⚛️ Building applications with TypeScript and modern JavaScript
+* 🎨 Interested in clean UI, responsive design, and good UX
+* ⚡ Focused on performance and maintainable code
+* 🔍 3+ years of practical SEO experience alongside development
+* 🛠️ Comfortable working with REST APIs, databases, Git, and modern development tools
+* 📚 Always learning and improving through real-world projects
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Frontend
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
----
-
 ### Backend & Database
 
-<img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=4DB33D" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 
----
-
-### Tools & Workflow
+### Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-121212?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Netlify-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/WordPress-1E1E1E?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+### Design
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+### SEO
+
+<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
-### Design & Creative
+## 🚀 What I Build
 
-<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Illustrator-2B1200?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-<img src="https://img.shields.io/badge/Premiere_Pro-1A0B2E?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+I enjoy working on:
 
----
-
-### AI & Productivity
-
-<img src="https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=74AA9C" />
-<img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
+* Modern React and Next.js applications
+* Responsive and reusable UI components
+* Dashboard and admin interfaces
+* E-commerce and content-driven websites
+* API-based applications
+* SEO-friendly and performance-focused websites
 
 ---
 
-### SEO & Optimization
+## 📌 Featured Projects
 
-<img src="https://img.shields.io/badge/SEO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=34A853" />
-<img src="https://img.shields.io/badge/Search_Console-202124?style=for-the-badge&logo=google&logoColor=4285F4" />
+### Balerion LMS
 
-</div>
+A modern learning management system built with **Next.js, TypeScript, Tailwind CSS, and Supabase**.
 
----
+* Authentication
+* Course management
+* Dashboard
+* Responsive UI
+* Database integration
 
-# 🤖 AI-Driven Development
-
-I actively integrate AI into my workflow to:
-
-- Improve development speed  
-- Write cleaner and more maintainable code  
-- Debug faster and solve problems efficiently  
-- Learn modern technologies more effectively  
-- Build smarter development workflows  
-
-AI is not a replacement for developers — it’s a productivity multiplier for engineers who know how to use it properly.
+🔗 [View on GitHub](https://github.com/omid-nk/balerion)
 
 ---
 
-# 💡 What I Bring
+## 📈 Currently Learning
 
-### 🔹 Frontend Engineering
-- Responsive and modern UI development  
-- Component-based architecture  
-- Clean and scalable code structure  
-- Performance-focused implementation  
-
-### 🔹 SEO + Development Mindset
-- Technical SEO understanding  
-- Search Console optimization  
-- Website structure and indexing knowledge  
-- Performance optimization for better rankings  
-
-### 🔹 Design Awareness
-Experience working with:
-- Figma  
-- Photoshop  
-- Illustrator  
-- Premiere Pro  
-
-This helps me collaborate effectively with designers and create visually polished interfaces.
+* Advanced TypeScript
+* Scalable React architecture
+* Next.js App Router
+* Backend architecture
+* Database design
+* Production-ready application development
 
 ---
 
-# 📈 Current Focus
-
-- Building advanced frontend applications with Next.js  
-- Improving backend and database architecture knowledge  
-- Learning scalable application patterns  
-- Contributing to production-level real-world projects  
-
----
-
-# 🌍 Portfolio Philosophy
-
-I care about building products that are:
-
-- Fast  
-- Responsive  
-- User-friendly  
-- SEO-optimized  
-- Maintainable  
-- Scalable  
-
-Because great products should not only look good — they should perform exceptionally well too.
-
----
-
-# 📫 Contact Me
+## 📫 Contact
 
 <div align="center">
 
@@ -151,12 +113,12 @@ Because great products should not only look good — they should perform excepti
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/omid-nk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://t.me/YOUR_ID">
-  <img src="https://img.shields.io/badge/Telegram-1E1E1E?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
@@ -165,6 +127,6 @@ Because great products should not only look good — they should perform excepti
 
 <div align="center">
 
-### “Always learning. Always building.”
+**Building. Learning. Improving.**
 
 </div>
