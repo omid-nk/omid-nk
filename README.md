@@ -22,13 +22,13 @@ I build modern, responsive, and user-focused web applications with a strong back
 
 I'm a **Frontend Developer** focused on building modern web applications with **React, Next.js, TypeScript, and Tailwind CSS**.
 
-My journey in web development started with **design and WordPress**, where I developed a strong interest in creating websites and digital experiences. Over time, I moved deeper into frontend development and programming, focusing on building applications with modern JavaScript technologies.
+My background started with **web design, WordPress, and SEO**, which helped me develop a strong understanding of user experience, performance, and building websites that are not only functional but also visually effective.
 
-Before focusing on frontend development, I gained **3+ years of practical experience in SEO and WordPress**, along with hands-on experience in **graphic and UI design** using tools such as **Photoshop and Figma**.
+With **3+ years of practical experience in SEO and WordPress**, along with experience in **UI design using Figma and Photoshop**, I approach frontend development with both technical and design perspectives.
 
-This background helps me approach frontend development not only from a coding perspective, but also with an understanding of **UI design, user experience, accessibility, performance, and SEO**.
+Currently, my main focus is building **Balerion**, a learning management system project where I explore real-world application architecture, authentication, dashboards, content management, and scalable frontend development.
 
-I enjoy turning ideas and designs into **clean, responsive, and maintainable web applications**.
+I enjoy transforming ideas into **clean, responsive, and maintainable web applications** while continuously improving my skills and development workflow.
 
 ---
 
@@ -94,17 +94,11 @@ I enjoy turning ideas and designs into **clean, responsive, and maintainable web
 
 ## 📌 Featured Projects
 
-### 🔥 Balerion
+### 🔥 Balerion (Main Project)
 
 A modern learning management system and admin dashboard built with **Next.js, Tailwind CSS, and Supabase**.
 
-Built to explore real-world application architecture, authentication, dashboards, course management, and responsive UI.
-
-### ✍️ Tiptap Editor
-
-A lightweight web-based editor built with **Tiptap**, designed for creating structured content and exporting it as JSON.
-
-The project focuses on building a practical editing experience with a clean and responsive interface.
+Currently my main focus project, exploring real-world frontend architecture including authentication, dashboards, course management, content systems, and responsive UI development.
 
 ---
 
@@ -122,12 +116,44 @@ This experience influences the way I approach frontend development, especially w
 
 ---
 
+## ⚙️ Development Environment
+
+<div>
+  <img src="https://img.shields.io/badge/Linux-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Omarchy-Hyprland-242424?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+I enjoy exploring different development environments and building a productive workflow.
+
+Currently, I'm learning more about **Linux systems, terminal workflows, and developer environments** to improve my overall development experience.
+
+---
+
+## 🤖 AI-Powered Development
+
+<div>
+  <img src="https://img.shields.io/badge/AI_Assistant-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding_AI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+I use AI tools as part of my development workflow to improve productivity, explore solutions, debug problems, and learn new technologies faster.
+ 
+* 💡 Exploring ideas and solutions
+* 🐛 Debugging and problem solving
+* 📚 Learning new technologies
+* ⚡ Improving development speed and productivity
+
+---
+
 ## 📈 Currently Learning
 
-* Advanced TypeScript
-* Scalable React architecture
-* Production-ready Next.js applications
-* Frontend performance and accessibility
+* 🔷 Advanced TypeScript patterns
+* ⚛️ Scalable React architecture
+* 🐧 Linux system and development workflows
+* ⚡ Improving frontend performance and accessibility
+* 🏗️ Building production-ready applications with Next.js
 
 ---
 
